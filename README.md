@@ -36,6 +36,8 @@ Node.js/Express.js/Mongodb/Atlas
 15. DELETE /customers/:userid
 ## 4. Managing appointments (auth user can check/delete/update appointments)
 HTML/CSS/JS/React
+Website for managers for overseeing appointments.
+
 1. Overview of today (taken timeslots with **selected services** along with **assigned barbers** and **expected income**)
 2. Overview of tommorow (any day)
 3. History of previous appointments (can change status of any prev appointment ex. Completed/Pending payement/No show/)
