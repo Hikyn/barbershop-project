@@ -3,7 +3,7 @@
 This is a project for an imaginary barbershop. Customers are able to view information regarding barbershop on a landing page, they can make or cancel an appointment. Managers of a barbershop are able to view appointments for a day/week, create, read, update or delete them. 
 This project consists of 4 separate repositories:
 
-## 1. One-page front
+## 1. Landing page
 HTML/CSS/JS
 This is a landing page for customers. They will be able to view brand information, see pricelist, view barbershop team, check photos/videos and access contact information.
 ## 2. Scheduling appointment (complicated form on React with 5 steps)
