@@ -8,7 +8,7 @@ HTML/CSS/JS
 
 [Repo link](https://github.com/Hikyn/barbershop-project-landing)
 
-This is a landing page for customers. They will be able to view brand information, see pricelist, view barbershop team, check photos/videos and access contact information.
+This is a landing page for customers. They are able to view brand information, see pricelist, view locations of barbershops on google maps, get contact information and barbershop's socials.
 ## 2. Scheduling appointment (complicated form on React with 5 steps)
 HTML/CSS/JS/React
 This is a page for making appointments. Users will be navigated through 5 steps of making appointment.
