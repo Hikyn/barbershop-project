@@ -17,6 +17,8 @@ This is a page for making appointments. Users will be navigated through 5 steps 
 3. Selecting prefered barber
 4. Choosing timeslot
 5. Sign up to create appointment
+
+[Repo link](https://github.com/Hikyn/barbershop-project-form)
 ## 3. REST API for CRUD appointments (express.js backend only server with json responses)
 Node.js/Express.js/Mongodb/Atlas
 1. GET /locations
@@ -37,6 +39,8 @@ Node.js/Express.js/Mongodb/Atlas
 13. POST /customers/:userid
 14. PUT /customers/:userid
 15. DELETE /customers/:userid
+
+[Repo link](https://github.com/Hikyn/barbershop-project-backend/)
 ## 4. Managing appointments (auth user can check/delete/update appointments)
 HTML/CSS/JS/React
 Website for managers for overseeing appointments.
