@@ -6,9 +6,9 @@ This project consists of 4 separate repositories:
 ## 1. Landing page
 HTML/CSS/JS
 
-[Repo link](https://github.com/Hikyn/barbershop-project-landing)
-
 This is a landing page for customers. They are able to view brand information, see pricelist, view locations of barbershops on google maps, get contact information and barbershop's socials.
+
+[Repo link](https://github.com/Hikyn/barbershop-project-landing)
 ## 2. Scheduling appointment (complicated form on React with 5 steps)
 HTML/CSS/JS/React
 This is a page for making appointments. Users will be navigated through 5 steps of making appointment.
