@@ -21,24 +21,31 @@ This is a page for making appointments. Users will be navigated through 5 steps 
 [Repo link](https://github.com/Hikyn/barbershop-project-form)
 ## 3. REST API for CRUD appointments (express.js backend only server with json responses)
 Node.js/Express.js/Mongodb/Atlas
-1. GET /locations
-2. GET /services
-3. GET /barbers
+
+1. GET /services
 ---
-4. GET /timeslots
-5. GET /timeslots/available
+2. GET /barbers
+3. GET /barbers/:barberId
+4. GET /barbers/:barberId/working_hours
+5. GET /barbers/:barberId/working_hours/:day
+6. GET /barbers/:barberId/appointments
+7. GET /barbers/:barberId/timeslots/:day/:month/:year
 ---
-6. GET /appointments
-7. POST /appointments
-8. PUT /appointments
-9. DELETE /appointments
-10. GET /appointments/history
+8. GET /barbershops
+9. GET /barbershops/:barbershopId
+10. GET /barbershops/:barbershopId/barbers
 ---
-11. GET /customers/
-12. GET /customers/:userid
-13. POST /customers/:userid
-14. PUT /customers/:userid
-15. DELETE /customers/:userid
+11. GET /appointments
+12. GET /appointments/:appointmentId
+13. POST /appointments
+14. PUT /appointments/:appointmentId
+15. DELETE /appointments/:appointmentId
+---
+16. GET /customers/
+17. GET /customers/:userid
+18. POST /customers/:userid
+19. PUT /customers/:userid
+20. DELETE /customers/:userid
 
 [Repo link](https://github.com/Hikyn/barbershop-project-backend/)
 ## 4. Managing appointments (auth user can check/delete/update appointments)
