@@ -1,6 +1,6 @@
 # Overview
 
-This is a project for an imaginary barbershop. Customers are able to view information regarding barbershop on a landing page, they can make or cancel an appointment. Managers of a barbershop are able to view appointments for a day/week, create, read, update or delete them. 
+This is a project for an imaginary barbershop. Customers are able to view information regarding barbershop on a landing page, they can make an appointment. Managers of a barbershop are able to view appointments for a day/week, create, read, update or delete them. 
 This project consists of 4 separate repositories:
 
 ## 1. Landing page
@@ -16,7 +16,7 @@ This is a page for making appointments. Users will be navigated through 5 steps 
 2. Selecting services
 3. Selecting prefered barber
 4. Choosing timeslot
-5. Sign up to create appointment
+5. Filling contact information to create an appointment
 
 [Repo link](https://github.com/Hikyn/barbershop-project-form)
 ## 3. REST API for CRUD appointments (express.js backend only server with json responses)
