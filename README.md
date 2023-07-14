@@ -10,8 +10,8 @@ This is a landing page for customers. They are able to view brand information, s
 
 [Repo link](https://github.com/Hikyn/barbershop-project-landing)
 ## 2. Scheduling appointment (complicated form on React with 5 steps)
-HTML/CSS/JS/React
-This is a page for making appointments. Users will be navigated through 5 steps of making appointment.
+HTML/CSS/TS/React
+This is a page for making appointments. Users will be navigated through 5 steps of making appointment, receiving data on the fly via my REST API.
 1. Choosing location
 2. Selecting services
 3. Selecting prefered barber
@@ -36,8 +36,8 @@ Node.js/Express.js/Mongodb/Atlas
 10. GET /barbershops/:barbershopId/barbers
 ---
 11. GET /appointments
-12. GET /appointments/:appointmentId
-13. POST /appointments
+12. POST /appointments
+13. GET /appointments/:appointmentId
 14. PUT /appointments/:appointmentId
 15. DELETE /appointments/:appointmentId
 ---
